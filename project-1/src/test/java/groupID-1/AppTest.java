@@ -1,4 +1,4 @@
-package groupID-1;
+package groupID;
 
 import static org.junit.Assert.assertTrue;
 
